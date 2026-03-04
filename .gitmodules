@@ -1,0 +1,9 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Densingh-123/SIH.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Darunesh1/ayush_BE.git
+[submodule "Documentation"]
+	path = Documentation
+	url = https://github.com/Densingh-123/Ayush_Documentation.git
